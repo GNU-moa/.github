@@ -1,3 +1,6 @@
+# GNUMOA
+2023 1학기 소프트웨어설계PBL 출품작
+
 ## Contributors
 
 | PM & Server | Android | Android | Web | Server |
